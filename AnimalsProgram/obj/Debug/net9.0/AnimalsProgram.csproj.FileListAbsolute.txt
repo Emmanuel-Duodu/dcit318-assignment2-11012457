@@ -1,0 +1,14 @@
+C:\Users\Kofi Annang\Documents\GitHub\Assigment2\AnimalsProgram\obj\Debug\net9.0\AnimalsProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kofi Annang\Documents\GitHub\Assigment2\AnimalsProgram\obj\Debug\net9.0\AnimalsProgram.AssemblyInfoInputs.cache
+C:\Users\Kofi Annang\Documents\GitHub\Assigment2\AnimalsProgram\obj\Debug\net9.0\AnimalsProgram.AssemblyInfo.cs
+C:\Users\Kofi Annang\Documents\GitHub\Assigment2\AnimalsProgram\obj\Debug\net9.0\AnimalsProgram.csproj.CoreCompileInputs.cache
+C:\Users\Kofi Annang\Documents\GitHub\Assigment2\AnimalsProgram\bin\Debug\net9.0\AnimalsProgram.exe
+C:\Users\Kofi Annang\Documents\GitHub\Assigment2\AnimalsProgram\bin\Debug\net9.0\AnimalsProgram.deps.json
+C:\Users\Kofi Annang\Documents\GitHub\Assigment2\AnimalsProgram\bin\Debug\net9.0\AnimalsProgram.runtimeconfig.json
+C:\Users\Kofi Annang\Documents\GitHub\Assigment2\AnimalsProgram\bin\Debug\net9.0\AnimalsProgram.dll
+C:\Users\Kofi Annang\Documents\GitHub\Assigment2\AnimalsProgram\bin\Debug\net9.0\AnimalsProgram.pdb
+C:\Users\Kofi Annang\Documents\GitHub\Assigment2\AnimalsProgram\obj\Debug\net9.0\AnimalsProgram.dll
+C:\Users\Kofi Annang\Documents\GitHub\Assigment2\AnimalsProgram\obj\Debug\net9.0\refint\AnimalsProgram.dll
+C:\Users\Kofi Annang\Documents\GitHub\Assigment2\AnimalsProgram\obj\Debug\net9.0\AnimalsProgram.pdb
+C:\Users\Kofi Annang\Documents\GitHub\Assigment2\AnimalsProgram\obj\Debug\net9.0\AnimalsProgram.genruntimeconfig.cache
+C:\Users\Kofi Annang\Documents\GitHub\Assigment2\AnimalsProgram\obj\Debug\net9.0\ref\AnimalsProgram.dll
